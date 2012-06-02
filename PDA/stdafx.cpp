@@ -3,5 +3,5 @@
 // stdafx.obj contiene la información de tipos precompilada
 
 #include "stdafx.h"
-
+#include <stack>
 
